@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m finishing my Bachelor’s degree in Computer Engineering.<br>🤝 I’m looking for an internship to gain real-world experience and grow as an engineer.<br>🔭 I’m currently working on my final assignment to graduate in Computer Engineering (LLM-assisted software development: requirements, architecture, implementation, and testing).<br>🌱 I’m currently learning key practices for building software systems: requirements, architecture, clean code, and testing.<br>⚡ Fun fact: I use keyboard shortcuts for almost everything.
+🎓 I’m finishing my Bachelor’s degree in Computer Engineering.<br><br> 🤝 I’m looking for an internship to gain real-world experience and grow as an engineer.<br><br> 🔭 I’m currently working on my final assignment to graduate in Computer Engineering (LLM-assisted software development: requirements, architecture, implementation, and testing).<br><br> 🌱 I’m currently learning key practices for building software systems: requirements, architecture, clean code, and testing.<br><br> ⚡ Fun fact: I use keyboard shortcuts for almost everything.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=diogo_silves&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo_silves&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=diogo_silves&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
